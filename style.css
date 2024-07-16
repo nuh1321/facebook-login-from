@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f3f2f2;
+}
+.all{
+    display: flex;
+   gap: 40px;
+   margin-left: 430px;
+   margin-top: 180px;
+   align-items: center;
+  
+  
+   }
+.logo{
+    color: rgb(4, 81, 224);
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.left{
+    width: 600px;
+    margin-top:-20px;
+}
+.paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right{
+    text-align: center;
+    width: 500px;
+    height: 440px;
+    border-radius: 15px;
+    padding: 40px;
+    background-color: white;
+    box-shadow: 1px 1px 7px 7px rgb(236, 236, 236);
+}
+.box input{
+    width: 100%;
+ text-align: center;
+padding: 15px;
+border: 1px solid rgb(207, 204, 204);
+border-radius: 5px;
+font-size: 20px;
+text-align: start;
+
+}
+.btn button{
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    background-color: rgb(27, 93, 235);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+a{
+    margin-top: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(13, 110, 238);
+}
+.pp {
+    margin-top: 1px;
+    font-size: 25px;
+    padding: 20px;
+}
+.creat button{
+    width: 60%;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color:rgb(13, 110, 238) ;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+p{
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    height: 400px;
+    width: 99%;
+    margin: auto;
+    margin-top: 200px;
+    background-color: white;
+    font-size: 20px;
+    text-align: justify;
+    padding: 180px;
+    padding-top: 90px;
+    color: rgb(74, 75, 75);
+    padding-left: 430px;
+  
+}
